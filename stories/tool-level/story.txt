@@ -1,0 +1,29 @@
+# Tool explainer. Wording follows audiosorted.com (Level).
+format = tips
+voice = af_heart
+hook = Quiet bits too quiet, loud bits too loud? 🎚
+---
+kicker = 🎚 LEVEL
+show = Quiet bits too quiet? *Loud bits too loud?*
+visual = noise
+say = Ever recorded something where the quiet bits are too quiet, and the loud bits make people jump?
+---
+kicker = WHAT IT DOES
+show = Evens out the *quiet and loud* parts
+visual = voice
+say = That's what Level is for. It evens out the quiet and loud parts of your recording.
+---
+kicker = PICK YOUR PLATFORM
+show = YouTube · Spotify · TikTok · *Podcasts*
+visual = voice
+say = Then it sets the right loudness for where you're posting, like YouTube, TikTok, Spotify or Apple Podcasts.
+---
+kicker = GOOD TO KNOW
+show = Music and atmosphere are *left alone*
+visual = voice
+say = Music and atmosphere are left alone, and you get a before and after loudness report.
+---
+kicker = TRY IT
+show = Level it at *audiosorted.com*
+visual = logo
+say = Level your next recording at AudioSorted. You get two free goes a day.

@@ -1,0 +1,29 @@
+# Tips / education, 20-45 s
+format = tips
+voice = af_heart
+hook = 3 free fixes for noisy phone recordings 🎙
+---
+kicker = AUDIOSORTED TIP #1
+show = *3 free fixes* for noisy phone recordings 🎙
+visual = voice
+say = Three free fixes for noisy phone recordings.
+---
+kicker = TIP 1
+show = Get *closer*
+visual = number 1
+say = Get closer. About a hand's width from your mouth, so your voice beats the room.
+---
+kicker = TIP 2
+show = Find the *mic*
+visual = number 2
+say = Find the mic. On most phones it's on the bottom edge, so point that at your mouth.
+---
+kicker = TIP 3
+show = Pick a *soft* room
+visual = number 3
+say = Pick a soft room. Curtains, a sofa and carpet beat a kitchen full of hard surfaces.
+---
+kicker = STILL NOISY?
+show = Get it *AudioSorted*
+visual = logo
+say = Still noisy? Run it through AudioSorted. You get two free clean-ups every day.
